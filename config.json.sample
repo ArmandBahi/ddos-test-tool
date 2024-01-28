@@ -1,5 +1,5 @@
 {
-    "url": "https://dev-vmap.veremes.net/wms/private/9624d09e00362a492bc6a2a6b8e3185df75ad65039e587951d90e4f38269c772?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetMap&FORMAT=image%2Fpng&TRANSPARENT=true&LAYERS=Fleuves_Polygone_-_2154%2CVilles&STYLES=&CRS=EPSG%3A3857&WIDTH=1395&HEIGHT=1771&BBOX=-959073.7717003264%2C4292946.974294556%2C1579624.1575298477%2C7515910.438571716",
+    "url": "https://....",
     "headers": {},
     "method": "get",
     "params": {},
